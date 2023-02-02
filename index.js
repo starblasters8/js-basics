@@ -56,6 +56,8 @@
             age: 30
         };// object literal
 
+
+
         //console.log(person); // returns { name: 'Mosh', age: 30 }
 
         //Dot notation
@@ -108,6 +110,15 @@
        // }
        // let number = square(2); // sets number to 4
        // console.log(square(2)); // returns 4
+
+        function name()
+        {
+
+        }
+
+
+
+
 
        class Person
          {
